@@ -2,7 +2,7 @@
 
 - Maak een **fork** van deze repo.
 - Clone je eigen fork in `/var/www/html/php-basics` (met `sudo`).
-- Wijzig de eigenaar van de map naar een gewone user `sudo chmod imma php-basics`
+- Wijzig de eigenaar van de map naar een gewone user `sudo chown imma php-basics`
 - Maak een commit voor elke oef. en push naar je fork
 
 ## Tips
